@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>midbg4 - 41123215-W12</title><link href="./" rel="alternate"></link><link href="./feeds/41123215-w12.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T07:38:32+08:00</updated><entry><title>41123215-W12</title><link href="./2024-41123215-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T15:16:00+08:00</published><updated>2024-06-17T07:38:32+08:00</updated><author><name>41123215</name></author><id>tag:None,2024-05-09:./2024-41123215-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習第十二週實習操作, 利用 NX 1872 繪製鋼球平衡台所需的零組件, 將各分組倉儲設為評分倉儲的子模組, 跨 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;協同產品設計實習第十二週實習操作, 利用 NX 1872 繪製鋼球平衡台所需的零組件, 將各分組倉儲設為評分倉儲的子模組, 跨網路操控模擬場景裝置.&lt;/p&gt;
+&lt;h1&gt;實習任務一&lt;/h1&gt;
+&lt;p&gt;繪製鋼球平衡台零組件&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://raw.githubusercontent.com/YanNingxue/cd2024/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-05-16%20160052.png"&gt;零件五成品&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://e9a85ac4-04d5-4d00-a442-c7a5bcf51766-00-1rej1ipxxpz8.worf.replit.dev/downloads/%E9%9B%B6%E4%BB%B65.zip"&gt;零件五程式&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;心得:繪製零件五的難度雖然不高,但是會因為過程中給錯尺寸或是畫完後對影片過程不滿意而一直重新錄製&lt;/p&gt;</content><category term="41123215-W12"></category><category term="41123215-網誌編寫"></category></entry></feed>

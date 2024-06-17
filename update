@@ -1,0 +1,18 @@
+cd 40923157
+git pull origin main
+cd ..
+cd 41123201
+git pull origin main
+cd ..
+cd 41123207
+git pull origin main
+cd ..
+cd 41123209
+git pull origin main
+cd ..
+cd 41123215
+git pull origin main
+cd ..
+cd 41123234
+git pull origin main
+cd ..
